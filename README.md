@@ -1,7 +1,5 @@
-<b> The contents in this document is what came along as Project assignment instructions.
-Please read the instructions given in Project01/README.md to get information on the solutions created for this project assignment.
-</b>
-
+<b><span style='font-size:12.0pt;line-height:107%;background:yellow'>The contents in this document is what came along as Project assignment instructions.
+Please read the instructions given in Project01/README.md to get information on the solutions created for this project assignment.</span></b>
 
 ## Introduction
 
