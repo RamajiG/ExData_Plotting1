@@ -1,3 +1,8 @@
+<b> The contents in this document is what came along as Project assignment instructions.
+Please read the instructions given in Project01/README.md to get information on the solutions created for this project assignment.
+</b>
+
+
 ## Introduction
 
 This assignment uses data from
